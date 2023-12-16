@@ -24,10 +24,9 @@
 
 ## 🔭🌠❄ ⭑ Credits
 
-  * ![reddit](.github/icons/reddit.svg) [u/mayday-mayjay](https://www.reddit.com/user/mayday-mayjay) /![discord](.github/icons/discord.svg) @maydaymayjay / The DreamScape system
+  * ![reddit](.github/icons/reddit.svg) [u/mayday-mayjay](https://www.reddit.com/user/mayday-mayjay) / ![discord](.github/icons/discord.svg) @maydaymayjay / The DreamScape system
   — team leader, concept creator, helped with jsons/thumbs, designed spritepacks
-  * ![reddit](.github/icons/reddit.svg) [u/Historical_Variety63](https://reddit.com/u/Historical_Variety63)
-  ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@HistoryVariety](https://github.com/Historyvariety)
+  * ![reddit](.github/icons/reddit.svg) [u/Historical_Variety63](https://reddit.com/u/Historical_Variety63) / ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@HistoryVariety](https://github.com/Historyvariety)
   — collab co-leader/concept creator, member manager, is bestieee
 <details><summary> incomplete - check all the other spritepack designers and coders here! </summary> 
 * Verd ⭑ Reddit: u/crunchy_meringue ⭑ pax, help with jsons <br>
