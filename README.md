@@ -1,4 +1,3 @@
-❄ Winter themed spritepack collab (2023) for MAS 
 <h1 align="center">⭑ 🏂🧊🧣 2023 MAS/JN Winter Collab! 🧤🎁🎄 ⭑</h1>
 <h3 align="center">"Baby it's cold outside~!" ~ Monika </h3>
 <h3 align="center">"Keep up, before you get hit with this snowball!" ~ Natsuki </h3>
