@@ -1,7 +1,8 @@
 <h1 align="center">⭑ 🏂🧊🧣 2023 MAS/JN Winter Collab! 🧤🎁🎄 ⭑</h1>
 <h3 align="center">"Baby it's cold outside~!" ~ Monika </h3>
 <h3 align="center">"Keep up, before you get hit with this snowball!" ~ Natsuki </h3>
-<p align="center">Here is the repo  version of u/mayday-mayjay's 2023 winter collab, in case the google drive link is being finicky!</p>
+<p align="center">Here is the repo version of u/mayday-mayjay's 2023 winter collab, in case the google drive link is being finicky!</p>
+<p align="center">This collab contains spritepacks for both <i>Monika After Story</i> and <i>Just Natsuki</i>, be mindful which ones you get!</p>
 <p align="center">
   <a href="https://discord.gg/Tx23rczN8N">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/957814201311694870/widget.png?style=shield">
