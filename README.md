@@ -9,19 +9,78 @@
   </a>
 </p>
 
-## --UNDER CONSTRUCTION--
-
-## ⛄ ⭑ [click here for the google drive version! - N/A](xxxx)
+## ⛄ ⭑ [click here for the google drive version!](https://drive.google.com/drive/folders/1xmU5EHrSkC07DL95Mcv1rVVhFXRHQ75q?usp=sharing)
 
 ## BIG NOTE ⭑ Some of these packs require selectors [from here](https://github.com/mayday-mayjay/MJ-MAS-selector-city)!
 
+
 ## ✨ ⭑ Content
 
-✦ N/aA <br>
-
-<details><summary> ✦ - </summary> 
-  * <br>
+### ⭑ JN:
+✦ a snowflake hairclip/headgear <br>
+✦ 3 back ribbons <br>
+✦ an angel-wing backpiece <br>
+✦ 2 scarves <br>
+✦ 3 earrings <br>
+✦ 8 frosted tip hair recolors in mj-redux style <br>
+✦ 3 back ribbons <br>
+<details><summary> ✦ and so many clothes - click to see specifics </summary> 
+  * a blue snowflake dress <br>
+  * a pink strawberry sweater <br>
+  * 2 green sweaters, one with an apron, one without <br>
+  * 2 strapless santa outfits <br>
+  * a pink winter coat
+  * a cut shoulder pink winter sweater
+  * a winter hoodie in Finale's MAS hoodie style 
 </details>
+
+### ⭑ MAS:
+✦ 2 backgrounds <br>
+✦ a snowflake bracelet <br>
+✦ 6 scarves <br>
+✦ 5 chokers <br>
+✦ 7 cat lamps <br>
+✦ 13 food and drink table acs <br>
+✦ 9 regular table acs <br>
+✦ mariah... carey? <br>
+✦ 24 scrunchies <br>
+✦ 6 ribbons <br>
+✦ replacement mugs <br>
+✦ 10 Monika-nickname snowflake necklaces <br>
+✦ 2 regular necklaces <br>
+✦ 2 nailpolish <br>
+✦ 3 masks <br>
+✦ 6 earmuffs <br>
+✦ 3 hairlights <br>
+✦ 8 headpieces <br>
+✦ 3 hairstyles <br>
+✦ 7 hairclips <br>
+✦ 2 gloves <br>
+✦ 2 facepaint <br>
+✦ 10 earrings <br>
+✦ a hollyberry ear-acs <br>
+<details><summary> ✦ so many hats - click to see specifics </summary> 
+  * 14 bucket hats <br>
+  * 7 knit hats <br>
+  * a winter beanie
+  * 6 snowbun style hats
+  * a russian style winterhat
+  * a snow princess tiara
+</details>
+<details><summary> ✦ and so many clothes - click to see specifics </summary> 
+  * 4 over the sleeve outfits <br>
+  * a christmas sweater <br>
+  * 5 figure skating uniforms <br>
+  * a snowman dress <br>
+  * an emerald coat
+  * 7 flannel shirts
+  * a buttoned up warm dress
+  * 2 2-layer sweaters
+  * a sleeveless turtleneck sweater
+  * 9 gift lingerie 
+</details>
+
+✦ AND to top it off a small winter themed submod by [u/Betapopish!](https://www.reddit.com/user/betapopish) <br>
 
 ## 🔭🌠❄ ⭑ Credits
 
