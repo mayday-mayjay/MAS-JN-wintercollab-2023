@@ -13,7 +13,6 @@
 
 ## BIG NOTE ⭑ Some of these packs require selectors [from here](https://github.com/mayday-mayjay/MJ-MAS-selector-city)!
 
-
 ## ✨ ⭑ Content
 
 ### ⭑ JN:
@@ -95,6 +94,7 @@
 * Beta ⭑ Reddit: u/Betapopish ⭑ mas: over sweater clothes, earrings, necklaces, etc acs ⭑ jn: snowflake clothes ⭑ helped with jsons <br>   
 * Toffee ⭑ Reddit: u/toffeezx ⭑ mas: mug table acs, sweater-clothes, mug replacements, etc ⭑ jn: clothes ⭑ helped with jsons <br>
 * Blobfish-Chan ⭑ Reddit: u/blobfish_chan ⭑ mas: hat acs! <br>
+* Salsa ⭑ u/salsabilla310224 ⭑ mas: chokers, table acs, crown, headpieces, etc acs <br>
 * Wowm ⭑ Reddit: u/Individual-Car-6573 ⭑ mas: 2 glove sets <br>
  <br>
 * additional credits: <br>
