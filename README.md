@@ -67,6 +67,7 @@
   * a snow princess tiara
 </details>
 <details><summary> ✦ and so many clothes - click to see specifics </summary> 
+  * a whole 'winter wonderland' themed outfit set <br>
   * 4 over the sleeve outfits <br>
   * a christmas sweater <br>
   * 5 figure skating uniforms <br>
